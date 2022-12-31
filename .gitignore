@@ -1,0 +1,18 @@
+### Code Editor ###
+.vscode
+.idea
+
+### Distribution ###
+env/
+venv/
+.env
+.venv
+
+### Python ###
+*__pycache__/
+.dccache
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
