@@ -7,5 +7,4 @@ In this version of the game, the following features have been added:
 * You can either start a new game or continue from the last checkpoint.
 * Your number of hints will vary depending on the game's three stages.
 * By selecting the "Help" option, you may determine how near the dragon is and then flee.
-Below is a screenshot of the game's menu.
 ![Alt text](images/Simulation_board.png?raw=true "Optional Title")
